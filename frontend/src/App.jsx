@@ -23,7 +23,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>🚀 TaskNova</h1>
+      <h1>🚀 TaskNova Demo</h1>
 
       <div className="input-box">
         <input
